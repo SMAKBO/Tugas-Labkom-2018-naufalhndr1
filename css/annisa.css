@@ -1,0 +1,10 @@
+body {
+    background-color: hsl(0, 100%, 90%);
+}
+h1 {
+	color: brown; text-align: center;
+}
+p {
+	font-weight: bold; font-size: medium; font-family: "Times Nw Roman";
+}
+
