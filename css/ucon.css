@@ -1,0 +1,54 @@
+body, html
+{
+	min-height: 100%
+}
+body { 	
+	background-size: cover;
+	background-repeat:no-repeat; 	
+}
+.isi{
+	padding-right: 100px;
+	padding-left: 100px;
+}
+
+
+.judul {
+	font-family:arial
+}
+
+.gambar{
+	text-align: center;
+}
+
+h1{text-align: center;
+	color: black;
+	font-family: arial
+
+}
+
+h2{ text-align: center;
+	color: black;
+	font-family: arial
+}
+
+h3{	text-align: center;
+	color: black;
+	font-family: arial
+}
+
+h4{	text-align: left;
+	color: black;
+	font-family: arial
+}
+p{	text-align: center;
+	color: black;
+	text-align: justify;
+	font-family: serif;}
+
+}
+
+.container {
+	background-image: "bawah.jpg";
+	background-size: cover;
+	background;background-repeat: no-repeat;
+}
