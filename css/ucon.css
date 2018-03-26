@@ -4,7 +4,8 @@ body, html
 }
 body { 	
 	background-size: cover;
-	background-repeat:no-repeat; 	
+	background-repeat:no-repeat; 
+
 }
 .isi{
 	padding-right: 100px;
@@ -21,27 +22,27 @@ body {
 }
 
 h1{text-align: center;
-	color: black;
+	color: white;
 	font-family: arial
 
 }
 
 h2{ text-align: center;
-	color: black;
+	color: white;
 	font-family: arial
 }
 
 h3{	text-align: center;
-	color: black;
+	color: white;
 	font-family: arial
 }
 
 h4{	text-align: left;
-	color: black;
+	color: white;
 	font-family: arial
 }
 p{	text-align: center;
-	color: black;
+	color:white;
 	text-align: justify;
 	font-family: serif;}
 
